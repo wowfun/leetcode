@@ -1,3 +1,3 @@
 # leetcode
 
-[LeetCode Algorithm](https://github.com/wowfun/leetcode/blob/master/algorithm/README.md)
+[LeetCode Algorithm](https://github.com/wowfun/leetcode/tree/master/algorithm)
