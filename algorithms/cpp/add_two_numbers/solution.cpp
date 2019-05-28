@@ -7,14 +7,14 @@
  * };
  */
 
-/* #include <iostream>
+#include <iostream>
 using namespace std;
 
 struct ListNode {
   int val;
   ListNode* next;
   ListNode(int x) : val(x), next(NULL) {}
-}; */
+};
 
 class Solution {
  public:
@@ -45,7 +45,7 @@ class Solution {
 
 // test
 
-/* ListNode* createLinkListNum(int num) {
+ListNode* createLinkListNum(int num) {
   int head = -1;
   ListNode* l=new ListNode(head);
   l->next = NULL;
@@ -83,4 +83,4 @@ void test() {
 int main() {
   test();
   return 0;
-} */
+}
