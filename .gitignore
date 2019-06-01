@@ -1,5 +1,5 @@
 .idea
 .vs
 .vscode
-algorithms-java/out
+algorithms/java/out
 *.class
