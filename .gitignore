@@ -1,5 +1,8 @@
 .idea
 .vs
 .vscode
+algorithms/cpp/cmake-build-debug
 algorithms/java/out
 *.class
+
+algorithms/cpp/CMakeLists.txt
