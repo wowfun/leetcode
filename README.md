@@ -17,6 +17,7 @@ All original problems: <https://leetcode.com/problems>
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](algorithms/python/longest_substring_without_repeating_characters) | Medium | [Hash Table], [Two Pointers], [String], [Sliding Window]
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Suspending | Hard | [Array], [Binary Search], [Divide and Conquer]
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](algorithms/java/src/longestPalindromicSubstring),[Python](algorithms/python/longest_palindromic_substring)<sup>faster</sup> | Medium | [String], [Dynamic Programming] 
+| 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [C++](algorithms/cpp/zig_zag_conversion)<sup>slow</sup> |Meduim| [String]
 
 
 [Array]:https://leetcode.com/tag/array/
