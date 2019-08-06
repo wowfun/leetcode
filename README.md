@@ -12,12 +12,13 @@ All original problems: <https://leetcode.com/problems>
 
 | # | Title | Solution & Test | Difficulty | Tags
 | --- | --- | --- | --- | --- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Java](algorithms/java/src/twosum) | Easy | [Array], [Hash Table]
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Java](algorithms/java/src/two_sum) | Easy | [Array], [Hash Table]
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [C++](algorithms/cpp/add_two_numbers) | Medium | [Linked List], [Math]
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](algorithms/python/longest_substring_without_repeating_characters) | Medium | [Hash Table], [Two Pointers], [String], [Sliding Window]
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Suspending | Hard | [Array], [Binary Search], [Divide and Conquer]
-| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](algorithms/java/src/longestPalindromicSubstring),[Python](algorithms/python/longest_palindromic_substring)<sup>faster</sup> | Medium | [String], [Dynamic Programming] 
-| 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [C++](algorithms/cpp/zig_zag_conversion)<sup>slow</sup> |Meduim| [String]
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](algorithms/java/src/longest_palindromic_substring),[Python](algorithms/python/longest_palindromic_substring)<sup>faster</sup> | Medium | [String], [Dynamic Programming] 
+| 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [C++](algorithms/cpp/zig_zag_conversion)<sup>slow</sup> | Meduim | [String]
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](algorithms/cpp/reverse_integer) | Easy | [Math]
 
 
 [Array]:https://leetcode.com/tag/array/
