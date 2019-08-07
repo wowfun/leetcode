@@ -26,8 +26,8 @@ elif [[ "$difficulty" = "h" || "$difficulty" = "H" ]];then
   difficulty="Hard"
 fi
 
-problem_url=$problem_url_head`echo "$problem" | sed 's/ /-/g'`/
+problem_url=$problem_url_head`echo "$problem" | sed 's/[^[:alnum:] ]//g' | sed 's/ /-/g'`/
 # echo $problem_url
-solution_url=$solution_url_head`echo "$problem" | sed 's/ /_/g'`
+solution_url=$solution_url_head`echo "$problem" | sed 's/[^[:alnum:] ]//g' | sed 's/ /_/g'`
 
 echo "| $num | [${problem_name}](${problem_url}) | [${solution_lang}](${solution_url}) | $difficulty | "
