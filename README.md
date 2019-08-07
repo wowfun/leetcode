@@ -19,7 +19,7 @@ All original problems: <https://leetcode.com/problems>
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](algorithms/java/src/longest_palindromic_substring),[Python](algorithms/python/longest_palindromic_substring)<sup>faster</sup> | Medium | [String], [Dynamic Programming] 
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [C++](algorithms/cpp/zig_zag_conversion)<sup>slow</sup> | Meduim | [String]
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](algorithms/cpp/reverse_integer) | Easy | [Math]
-| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](algorithms/cpp/string_to_integer_atoi) | Medium |
+| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](algorithms/cpp/string_to_integer_atoi) | Medium | [Math], [String]
 
 [Array]:https://leetcode.com/tag/array/
 [Binary Search]:https://leetcode.com/problems/median-of-two-sorted-arrays/
