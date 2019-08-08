@@ -7,8 +7,12 @@
 
 All original problems: <https://leetcode.com/problems>
 
+## Contents
 
-## [LeetCode Algorithms](algorithms)
+* [Algorithms](#Algorithms)
+* [Shell](#Shell)
+
+## [Algorithms](algorithms)
 
 | # | Title | Solution & Test | Difficulty | Tags
 | --- | --- | --- | --- | --- |
@@ -21,6 +25,12 @@ All original problems: <https://leetcode.com/problems>
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](algorithms/cpp/reverse_integer) | Easy | [Math]
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](algorithms/cpp/string_to_integer_atoi) | Medium | [Math], [String]
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](algorithms/cpp/palindrome_number) | Easy | [Math]
+
+## [Shell](shell)
+
+| # | Title | Solution & Test | Difficulty | Tags
+| --- | --- | --- | --- | --- |
+| 192 | [Word Frequency](https://leetcode.com/problems/word-frequency/) | [Shell](algorithms/shell/word_frequency) | Medium |  
 
 [Array]:https://leetcode.com/tag/array/
 [Binary Search]:https://leetcode.com/problems/median-of-two-sorted-arrays/
