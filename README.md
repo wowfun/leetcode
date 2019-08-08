@@ -30,7 +30,7 @@ All original problems: <https://leetcode.com/problems>
 
 | # | Title | Solution & Test | Difficulty | Tags
 | --- | --- | --- | --- | --- |
-| 192 | [Word Frequency](https://leetcode.com/problems/word-frequency/) | [Shell](algorithms/shell/word_frequency) | Medium |  
+| 192 | [Word Frequency](https://leetcode.com/problems/word-frequency/) | [Shell](shell/word_frequency) | Medium |  
 
 [Array]:https://leetcode.com/tag/array/
 [Binary Search]:https://leetcode.com/problems/median-of-two-sorted-arrays/
