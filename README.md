@@ -16,24 +16,24 @@ All original problems: <https://leetcode.com/problems>
 
 | # | Title | Solution & Test | Difficulty | Tags
 | --- | --- | --- | --- | --- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Java](algorithms/java/src/two_sum) | Easy | [Array], [Hash Table]
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [C++](algorithms/cpp/add_two_numbers) | Medium | [Linked List], [Math]
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](algorithms/python/longest_substring_without_repeating_characters) | Medium | [Hash Table], [Two Pointers], [String], [Sliding Window]
-| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Suspending | Hard | [Array], [Binary Search], [Divide and Conquer]
-| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](algorithms/java/src/longest_palindromic_substring), [Python](algorithms/python/longest_palindromic_substring)<sup>faster</sup> | Medium | [String], [Dynamic Programming] 
-| 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [C++](algorithms/cpp/zig_zag_conversion)<sup>slow</sup> | Meduim | [String]
-| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](algorithms/cpp/reverse_integer) | Easy | [Math]
-| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](algorithms/cpp/string_to_integer_atoi) | Medium | [Math], [String]
-| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](algorithms/cpp/palindrome_number) | Easy | [Math]
-| 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Suspending | Hard | [String], [Dynamic Programming], [Backtracking]
-| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](algorithms/cpp/container_with_most_water)<sup>2</sup> | Medium | [Array], [Two Pointers]
-| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python](algorithms/python/integer_to_roman) | Medium | [Math], [String]
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Java](algorithms/java/src/two_sum) | <font color=green>Easy</font> | [Array], [Hash Table]
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [C++](algorithms/cpp/add_two_numbers) | <font color=orange>Medium</font> | [Linked List], [Math]
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](algorithms/python/longest_substring_without_repeating_characters) | <font color=orange>Medium</font> | [Hash Table], [Two Pointers], [String], [Sliding Window]
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Suspending | <font color=red>Hard</font> | [Array], [Binary Search], [Divide and Conquer]
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](algorithms/java/src/longest_palindromic_substring), [Python](algorithms/python/longest_palindromic_substring)<sup>faster</sup> | <font color=orange>Medium</font> | [String], [Dynamic Programming] 
+| 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [C++](algorithms/cpp/zig_zag_conversion)<sup>slow</sup> | <font color=orange>Medium</font> | [String]
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](algorithms/cpp/reverse_integer) | <font color=green>Easy</font> | [Math]
+| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](algorithms/cpp/string_to_integer_atoi) | <font color=orange>Medium</font> | [Math], [String]
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](algorithms/cpp/palindrome_number) | <font color=green>Easy</font> | [Math]
+| 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Suspending | <font color=red>Hard</font> | [String], [Dynamic Programming], [Backtracking]
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](algorithms/cpp/container_with_most_water)<sup>2</sup> | <font color=orange>Medium</font> | [Array], [Two Pointers]
+| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python](algorithms/python/integer_to_roman) | <font color=orange>Medium</font> | [Math], [String]
 
 ## [Shell](shell)
 
 | # | Title | Solution & Test | Difficulty | Tags
 | --- | --- | --- | --- | --- |
-| 192 | [Word Frequency](https://leetcode.com/problems/word-frequency/) | [Shell](shell/word_frequency) | Medium |  
+| 192 | [Word Frequency](https://leetcode.com/problems/word-frequency/) | [Shell](shell/word_frequency) | <font color=orange>Medium</font> |  
 
 [Array]:https://leetcode.com/tag/array/
 [Backtracking]:https://leetcode.com/tag/backtracking/
