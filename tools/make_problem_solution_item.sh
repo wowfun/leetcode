@@ -1,9 +1,10 @@
 #!/bin/bash
 
-num="$1"
-problem_name="$2"
-solution_lang="$3"
-difficulty="$4"
+# num="$1"
+num=1
+problem_name="$1"
+solution_lang="$2"
+difficulty="$3"
 # tags
 
 if [[ "$solution_lang" = "j" ]];then
@@ -14,13 +15,15 @@ elif [[ "$solution_lang" = "p" ]];then
   solution_lang="Python"
 elif [[ "$solution_lang" = "s" ]];then
   solution_lang="Shell"
+elif [[ "$solution_lang" = "0" ]];then
+  solution_lang="Suspending"
 fi
 
 problem=`echo "$problem_name" | sed 's/[A-Z]/\l&/g' | sed 's/[^[:alnum:] ]//g' | sed 's/ /_/g'`
 lang=`echo "$solution_lang" | sed 's/[A-Z]/\l&/g'`
 
 problem_url_head="https://leetcode.com/problems/"
-problem_url=$problem_url_head`echo "$problem" | sed 's/-/_/g'`/
+problem_url=$problem_url_head`echo "$problem" | sed 's/_/-/g'`/
 
 make_flag=1
 solution_url_head="algorithms/$lang/"
@@ -29,6 +32,7 @@ if [[ "$lang" = "java" ]];then
   solution_src_file="Solution.java"
   test_src_file="Test.java"
 elif [[ "$lang" = "c++" ]];then
+  solution_url_head="algorithms/cpp/"
   solution_src_file="solution.cpp"
   test_src_file="test.cpp"
 elif [[ "$lang" = "python" ]];then
