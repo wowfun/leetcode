@@ -57,11 +57,11 @@ if [[ $make_flag -eq 1 ]];then
 fi
 
 if [[ "$difficulty" = "e" || "$difficulty" = "E" ]];then
-  difficulty="<font color=green>Easy</font>"
+  difficulty="Easy"
 elif [[ "$difficulty" = "m" || "$difficulty" = "M" ]];then
-  difficulty="<font color=orange>Medium</font>"
+  difficulty="Medium"
 elif [[ "$difficulty" = "h" || "$difficulty" = "H" ]];then
-  difficulty="<font color=red>Hard</font>"
+  difficulty="Hard"
 else 
   echo ERROR: no surported difficulty
 fi
