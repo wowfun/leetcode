@@ -1,5 +1,5 @@
 // faster solution
-class Solution2 {
+class Solution {
 public:
   int maxArea(vector<int> &height) {
     int i_left = 0, i_right = height.size() - 1;
@@ -18,7 +18,7 @@ public:
 };
 
 // slower solution
-class Solution1 {
+class Solution {
 public:
   int maxArea(vector<int> &height) {
     int i_right = height.size() - 1;

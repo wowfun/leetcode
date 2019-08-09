@@ -20,13 +20,13 @@ All original problems: <https://leetcode.com/problems>
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [C++](algorithms/cpp/add_two_numbers) | Medium | [Linked List], [Math]
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](algorithms/python/longest_substring_without_repeating_characters) | Medium | [Hash Table], [Two Pointers], [String], [Sliding Window]
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Suspending | Hard | [Array], [Binary Search], [Divide and Conquer]
-| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](algorithms/java/src/longest_palindromic_substring),[Python](algorithms/python/longest_palindromic_substring)<sup>faster</sup> | Medium | [String], [Dynamic Programming] 
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](algorithms/java/src/longest_palindromic_substring), [Python](algorithms/python/longest_palindromic_substring)<sup>faster</sup> | Medium | [String], [Dynamic Programming] 
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [C++](algorithms/cpp/zig_zag_conversion)<sup>slow</sup> | Meduim | [String]
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](algorithms/cpp/reverse_integer) | Easy | [Math]
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](algorithms/cpp/string_to_integer_atoi) | Medium | [Math], [String]
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](algorithms/cpp/palindrome_number) | Easy | [Math]
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Suspending | Hard | [String] [Dynamic Programming] [Backtracking]
-| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](algorithms/cpp/container_with_most_water)<sup>2</sup> | Medium | [Arrary] [Two Pointers]
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](algorithms/cpp/container_with_most_water)<sup>2</sup> | Medium | [Array] [Two Pointers]
 
 ## [Shell](shell)
 
