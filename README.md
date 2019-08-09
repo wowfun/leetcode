@@ -25,6 +25,8 @@ All original problems: <https://leetcode.com/problems>
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](algorithms/cpp/reverse_integer) | Easy | [Math]
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](algorithms/cpp/string_to_integer_atoi) | Medium | [Math], [String]
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](algorithms/cpp/palindrome_number) | Easy | [Math]
+| 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Suspending | Hard | [String] [Dynamic Programming] [Backtracking]
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](algorithms/cpp/container_with_most_water)<sup>2</sup> | Medium | [Arrary] [Two Pointers]
 
 ## [Shell](shell)
 
@@ -33,12 +35,13 @@ All original problems: <https://leetcode.com/problems>
 | 192 | [Word Frequency](https://leetcode.com/problems/word-frequency/) | [Shell](shell/word_frequency) | Medium |  
 
 [Array]:https://leetcode.com/tag/array/
+[Backtracking]:https://leetcode.com/tag/backtracking/
 [Binary Search]:https://leetcode.com/problems/median-of-two-sorted-arrays/
 [Divide and Conquer]:https://leetcode.com/tag/divide-and-conquer/
+[Dynamic Programming]:https://leetcode.com/tag/dynamic-programming/
 [Hash Table]:https://leetcode.com/tag/hash-table/
 [Linked List]:https://leetcode.com/tag/linked-list/
 [Math]:https://leetcode.com/tag/math/
 [Sliding Window]:https://leetcode.com/tag/sliding-window/
 [String]:https://leetcode.com/tag/string/
 [Two Pointers]:https://leetcode.com/tag/two-pointers/
-[Dynamic Programming]:https://leetcode.com/tag/dynamic-programming/
