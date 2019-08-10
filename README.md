@@ -28,6 +28,8 @@ All original problems: <https://leetcode.com/problems>
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Suspending | Hard | [String], [Dynamic Programming], [Backtracking]
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](algorithms/cpp/container_with_most_water)<sup>2</sup> | Medium | [Array], [Two Pointers]
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python](algorithms/python/integer_to_roman) | Medium | [Math], [String]
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](algorithms/python/roman_to_integer)<sup>slow</sup> | Easy | [Math], [String]
+
 
 ## [Shell](shell)
 
