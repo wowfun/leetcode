@@ -51,9 +51,15 @@ solution_url=${solution_url_head}"${problem}"
 # make solution dir and src
 if [[ $make_flag -eq 1 ]];then
   cd `dirname $0`
-  mkdir -p ../${solution_url}
-  touch ../${solution_url}/${solution_src_file}
-  touch ../${solution_url}/${test_src_file}
+  if [[ ! -f ../${solution_url}/${solution_src_file} ]];then
+    mkdir -p ../${solution_url}
+    echo -n >> ../${solution_url}/${solution_src_file}
+    echo -n >> ../${solution_url}/${test_src_file}
+    if [[ $lang = "java" ]];then
+      echo 'package '$problem';' >> ../${solution_url}/${solution_src_file}
+      echo 'package '$problem';' >> ../${solution_url}/${test_src_file}
+    fi
+  fi
 fi
 
 if [[ "$difficulty" = "e" || "$difficulty" = "E" ]];then
