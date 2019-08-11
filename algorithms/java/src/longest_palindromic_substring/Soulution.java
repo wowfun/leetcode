@@ -1,4 +1,4 @@
-package longestPalindromicSubstring;
+package longest_palindromic_substring;
 
 class Solution {
     public boolean isPalindrome(String s, int i_l, int i_r) {
