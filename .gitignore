@@ -5,6 +5,7 @@ algorithms/cpp/cmake-build-debug
 algorithms/cpp/out
 algorithms/java/out
 *.class
+*.pyc
 
 
 algorithms/cpp/CMakeLists.txt
