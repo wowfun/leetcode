@@ -32,6 +32,8 @@ All original problems: <https://leetcode.com/problems>
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](algorithms/python/longest_common_prefix), [Java](algorithms/java/src/longest_common_prefix)<sup>faster</sup> | Easy | [String]
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Java](algorithms/java/src/three_sum) | Medium | [Array],[Two Pointers]
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Java](algorithms/java/src/three_sum_closest) | Medium | [Array], [Two Pointers]
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](algorithms/python/letter_combinations_of_a_phone_number) | Medium | [String], [Backtracking]
+
 
 ## [Shell](shell)
 
