@@ -33,7 +33,7 @@ All original problems: <https://leetcode.com/problems>
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Java](algorithms/java/src/three_sum) | Medium | [Array],[Two Pointers]
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Java](algorithms/java/src/three_sum_closest) | Medium | [Array], [Two Pointers]
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](algorithms/python/letter_combinations_of_a_phone_number) | Medium | [String], [Backtracking]
-
+| 18 | [4Sum](https://leetcode.com/problems/4sum/) | [C++](algorithms/cpp/four_sum) | Medium | [Array], [Hash Table], [Two Pointers]
 
 ## [Shell](shell)
 
@@ -41,6 +41,7 @@ All original problems: <https://leetcode.com/problems>
 | --- | --- | --- | --- | --- |
 | 192 | [Word Frequency](https://leetcode.com/problems/word-frequency/) | [Shell](shell/word_frequency) | Medium |  
 
+<!-- tag links -->
 [Array]:https://leetcode.com/tag/array/
 [Backtracking]:https://leetcode.com/tag/backtracking/
 [Binary Search]:https://leetcode.com/problems/median-of-two-sorted-arrays/
