@@ -4,6 +4,7 @@
 algorithms/cpp/cmake-build-debug
 algorithms/cpp/out
 algorithms/java/out
+tmp_test*
 *.class
 *.pyc
 
