@@ -58,6 +58,11 @@ if [[ $make_flag -eq 1 ]];then
     if [[ $lang = "java" ]];then
       echo 'package '$problem';' >> ../${solution_url}/${solution_src_file}
       echo 'package '$problem';' >> ../${solution_url}/${test_src_file}
+    elif [[ $lang = "c++" ]]; then
+      echo '#include<iostream>' >> ../${solution_url}/${solution_src_file}
+      echo -e "\n""using namespace std;\n" >> ../${solution_url}/${solution_src_file}
+      echo '#include'\"solution.cpp\" >> ../${solution_url}/${test_src_file}
+      echo -e "\n""int main(){\n\n\n  return 0;\n}\n" >> ../${solution_url}/${test_src_file}
     fi
   fi
 fi
