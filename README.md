@@ -26,7 +26,7 @@ All original problems: <https://leetcode.com/problems>
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](algorithms/cpp/string_to_integer_atoi) | Medium | [Math], [String]
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](algorithms/cpp/palindrome_number) | Easy | [Math]
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Suspending | Hard | [String], [Dynamic Programming], [Backtracking]
-| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](algorithms/cpp/container_with_most_water)<sup>2</sup> | Medium | [Array], [Two Pointers]
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](algorithms/cpp/container_with_most_water)<sup>x2</sup> | Medium | [Array], [Two Pointers]
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python](algorithms/python/integer_to_roman) | Medium | [Math], [String]
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](algorithms/python/roman_to_integer)<sup>slow</sup> | Easy | [Math], [String]
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](algorithms/python/longest_common_prefix), [Java](algorithms/java/src/longest_common_prefix)<sup>faster</sup> | Easy | [String]
@@ -34,6 +34,8 @@ All original problems: <https://leetcode.com/problems>
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Java](algorithms/java/src/three_sum_closest) | Medium | [Array], [Two Pointers]
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](algorithms/python/letter_combinations_of_a_phone_number) | Medium | [String], [Backtracking]
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [C++](algorithms/cpp/four_sum) | Medium | [Array], [Hash Table], [Two Pointers]
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](algorithms/cpp/remove_nth_node_from_end_of_list)<sup>x2</sup> | Medium | [Linked List], [Two Pointers]
+
 
 ## [Shell](shell)
 
