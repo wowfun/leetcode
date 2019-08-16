@@ -35,6 +35,8 @@ All original problems: <https://leetcode.com/problems>
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](algorithms/python/letter_combinations_of_a_phone_number) | Medium | [String], [Backtracking]
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [C++](algorithms/cpp/four_sum) | Medium | [Array], [Hash Table], [Two Pointers]
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](algorithms/cpp/remove_nth_node_from_end_of_list)<sup>x2</sup> | Medium | [Linked List], [Two Pointers]
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](algorithms/cpp/valid_parentheses) | Easy | [String], [Stack]
+
 
 
 ## [Shell](shell)
@@ -53,5 +55,6 @@ All original problems: <https://leetcode.com/problems>
 [Linked List]:https://leetcode.com/tag/linked-list/
 [Math]:https://leetcode.com/tag/math/
 [Sliding Window]:https://leetcode.com/tag/sliding-window/
+[Stack]:https://leetcode.com/tag/stack/
 [String]:https://leetcode.com/tag/string/
 [Two Pointers]:https://leetcode.com/tag/two-pointers/
