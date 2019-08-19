@@ -38,7 +38,7 @@ All original problems: <https://leetcode.com/problems>
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](algorithms/cpp/valid_parentheses) | Easy | [String], [Stack]
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](algorithms/cpp/merge_two_sorted_lists) | Easy | [Linked List]
 | 22 | **[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)** | [Python](algorithms/python/generate_parentheses) | Medium | [String], [Backtracking]
-
+| 23 | **[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)** | [C++](algorithms/cpp/merge_k_sorted_lists) | Hard | [Linked List], [Divide and Conquer], [Heap]
 
 
 
@@ -55,6 +55,7 @@ All original problems: <https://leetcode.com/problems>
 [Divide and Conquer]:https://leetcode.com/tag/divide-and-conquer/
 [Dynamic Programming]:https://leetcode.com/tag/dynamic-programming/
 [Hash Table]:https://leetcode.com/tag/hash-table/
+[Heap]:https://leetcode.com/tag/heap/
 [Linked List]:https://leetcode.com/tag/linked-list/
 [Math]:https://leetcode.com/tag/math/
 [Sliding Window]:https://leetcode.com/tag/sliding-window/
