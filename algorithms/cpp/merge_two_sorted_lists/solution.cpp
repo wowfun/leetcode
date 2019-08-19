@@ -16,6 +16,9 @@ public:
     ListNode *tail = &head;
     while (l1 && l2) {
       ListNode *&node = l1->val < l2->val ? l1 : l2;
+      // read from right to left, first,
+      // it's a variable called node, then it's a reference ,then the reference points to a pointer,
+      // then the pointer points to a ListNode, so node is a reference points to pointer which points to a ListNode.
       tail = tail->next = node;
       node = node->next;
     }
