@@ -22,3 +22,16 @@ public:
     return head;
   }
 };
+
+// recursion
+// invert the first 2 and then recurse for the rest
+class Solution2 {
+public:
+  ListNode *swapPairs(ListNode *head) {
+    if (!head || !head->next) return head;
+    ListNode *tmp = head->next;
+    head->next = swapPairs(tmp->next);
+    tmp->next = head;
+    return tmp;
+  }
+};

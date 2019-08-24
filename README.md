@@ -39,7 +39,7 @@ All original problems: <https://leetcode.com/problems>
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](algorithms/cpp/merge_two_sorted_lists) | Easy | [Linked List]
 | 22 | **[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)** | [Python](algorithms/python/generate_parentheses) | Medium | [String], [Backtracking]
 | 23 | **[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)** | [C++](algorithms/cpp/merge_k_sorted_lists) | Hard | [Linked List], [Divide and Conquer], [Heap]
-| 24 | **[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)** | [C++](algorithms/cpp/swap_nodes_in_pairs) | Medium | [Linked List]
+| 24 | **[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)** | [C++](algorithms/cpp/swap_nodes_in_pairs)<sup>x2: +recursion</sup> | Medium | [Linked List]
 | 334 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](algorithms/cpp/reverse_string)<sup>x2: +recursion</sup> | Easy | [Two Pointers], [String]
 
 

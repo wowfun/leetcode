@@ -12,7 +12,7 @@ int main() {
     i--;
   }
 
-  auto *s1 = new Solution();
+  auto *s1 = new Solution();  // or Solution2() by recursion
   ListNode *res_head = s1->swapPairs(head1);
   while (res_head != nullptr) {
     cout << res_head->val << ",";
