@@ -42,6 +42,7 @@ All original problems: <https://leetcode.com/problems>
 | 24 | **[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)** | [C++](algorithms/cpp/swap_nodes_in_pairs)<sup>x2: +recursion</sup> | Medium | [Linked List]
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [C++](algorithms/cpp/pascals_triangle)<sup>x3: +dp, recursion</sup> | Easy | [Array]
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [C++](algorithms/cpp/pascals_triangle_ii)<sup>x2: +recursion</sup> | Easy | [Array]
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](algorithms/cpp/reverse_linked_list) | Easy | [Linked List]
 | 334 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](algorithms/cpp/reverse_string)<sup>x2: +recursion</sup> | Easy | [Two Pointers], [String]
 
 
