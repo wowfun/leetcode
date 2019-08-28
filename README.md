@@ -44,6 +44,7 @@ All original problems: <https://leetcode.com/problems>
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [C++](algorithms/cpp/pascals_triangle_ii)<sup>x2: +recursion</sup> | Easy | [Array]
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](algorithms/cpp/reverse_linked_list) | Easy | [Linked List]
 | 334 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](algorithms/cpp/reverse_string)<sup>x2: +recursion</sup> | Easy | [Two Pointers], [String]
+| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C++](algorithms/cpp/fibonacci_number)<sup>x2: +recursion</sup> | Easy | [Array]
 
 
 ## [Shell](shell)
