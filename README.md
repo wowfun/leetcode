@@ -41,6 +41,7 @@ All original problems: <https://leetcode.com/problems>
 | 23 | **[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)** | [C++](algorithms/cpp/merge_k_sorted_lists) | Hard | [Linked List], [Divide and Conquer], [Heap]
 | 24 | **[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)** | [C++](algorithms/cpp/swap_nodes_in_pairs)<sup>x2: +recursion</sup> | Medium | [Linked List]
 | 70 | **[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)** | [C++](algorithms/cpp/climbing_stairs)<sup>x2: +recursion</sup> | Easy | [Dynamic Programming]
+| 104 | **[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)** | [C++](algorithms/cpp/maximum_depth_of_binary_tree)<sup>recursion(dfs), todo: bfs</sup> | Easy | [Tree], [Deep-first Search]
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [C++](algorithms/cpp/pascals_triangle)<sup>x3: +dp, recursion</sup> | Easy | [Array]
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [C++](algorithms/cpp/pascals_triangle_ii)<sup>x2: +recursion</sup> | Easy | [Array]
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](algorithms/cpp/reverse_linked_list) | Easy | [Linked List]
@@ -58,6 +59,7 @@ All original problems: <https://leetcode.com/problems>
 [Array]:https://leetcode.com/tag/array/
 [Backtracking]:https://leetcode.com/tag/backtracking/
 [Binary Search]:https://leetcode.com/problems/median-of-two-sorted-arrays/
+[Deep-first Search]:https://leetcode.com/tag/depth-first-search/
 [Divide and Conquer]:https://leetcode.com/tag/divide-and-conquer/
 [Dynamic Programming]:https://leetcode.com/tag/dynamic-programming/
 [Hash Table]:https://leetcode.com/tag/hash-table/
@@ -67,4 +69,5 @@ All original problems: <https://leetcode.com/problems>
 [Sliding Window]:https://leetcode.com/tag/sliding-window/
 [Stack]:https://leetcode.com/tag/stack/
 [String]:https://leetcode.com/tag/string/
+[Tree]:https://leetcode.com/tag/tree/
 [Two Pointers]:https://leetcode.com/tag/two-pointers/
