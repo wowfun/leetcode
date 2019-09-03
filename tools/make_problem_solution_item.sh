@@ -19,7 +19,7 @@ elif [[ "$solution_lang" = "0" ]];then
   solution_lang="Suspending"
 fi
 
-problem=`echo "$problem_name" | sed 's/[A-Z]/\l&/g' | sed 's/[^[:alnum:] ]//g' | sed 's/ /_/g'`
+problem=`echo "$problem_name" | sed 's/[A-Z]/\l&/g' | sed 's/[^[:alnum:] -]//g' | sed 's/[ -]/_/g'`
 lang=`echo "$solution_lang" | sed 's/[A-Z]/\l&/g'`
 
 problem_url_head="https://leetcode.com/problems/"
