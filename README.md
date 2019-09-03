@@ -48,7 +48,7 @@ All original problems: <https://leetcode.com/problems>
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](algorithms/cpp/reverse_linked_list) | Easy | [Linked List]
 | 334 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](algorithms/cpp/reverse_string)<sup>x2: +recursion</sup> | Easy | [Two Pointers], [String]
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C++](algorithms/cpp/fibonacci_number)<sup>x2: +recursion</sup> | Easy | [Array]
-
+| 779 | **[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | [C++](algorithms/cpp/k_th_symbol_in_grammar)**<sup>recursion</sup> | Medium | [Recursion], *[Tree]*
 
 ## [Shell](shell)
 
@@ -67,6 +67,7 @@ All original problems: <https://leetcode.com/problems>
 [Heap]:https://leetcode.com/tag/heap/
 [Linked List]:https://leetcode.com/tag/linked-list/
 [Math]:https://leetcode.com/tag/math/
+[Recursion]:https://leetcode.com/tag/recursion/
 [Sliding Window]:https://leetcode.com/tag/sliding-window/
 [Stack]:https://leetcode.com/tag/stack/
 [String]:https://leetcode.com/tag/string/
