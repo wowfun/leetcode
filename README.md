@@ -36,7 +36,7 @@ All original problems: <https://leetcode.com/problems>
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [C++](algorithms/cpp/four_sum) | Medium | [Array], [Hash Table], [Two Pointers]
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](algorithms/cpp/remove_nth_node_from_end_of_list)<sup>x2</sup> | Medium | [Linked List], [Two Pointers]
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](algorithms/cpp/valid_parentheses) | Easy | [String], [Stack]
-| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](algorithms/cpp/merge_two_sorted_lists) | Easy | [Linked List]
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](algorithms/cpp/merge_two_sorted_lists)<sup>x2: +recursion</sup> | Easy | [Linked List]
 | 22 | **[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)** | [Python](algorithms/python/generate_parentheses) | Medium | [String], [Backtracking]
 | 23 | **[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)** | [C++](algorithms/cpp/merge_k_sorted_lists) | Hard | [Linked List], [Divide and Conquer], [Heap]
 | 24 | **[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)** | [C++](algorithms/cpp/swap_nodes_in_pairs)<sup>x2: +recursion</sup> | Medium | [Linked List]
