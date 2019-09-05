@@ -42,6 +42,7 @@ All original problems: <https://leetcode.com/problems>
 | 24 | **[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)** | [C++](algorithms/cpp/swap_nodes_in_pairs)<sup>x2: +recursion</sup> | Medium | [Linked List]
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [C++](algorithms/cpp/powx_n) | Medium | [Math], [Binary Search]
 | 70 | **[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)** | [C++](algorithms/cpp/climbing_stairs)<sup>x2: +recursion</sup> | Easy | [Dynamic Programming]
+| 95 | **[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)** | [C++](algorithms/cpp/unique_binary_search_trees_ii) | Medium | [Dynamic Programming], [Tree]
 | 104 | **[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)** | [C++](algorithms/cpp/maximum_depth_of_binary_tree)<sup>recursion(dfs), todo: bfs</sup> | Easy | [Tree], [Deep-first Search]
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [C++](algorithms/cpp/pascals_triangle)<sup>x3: +dp, recursion</sup> | Easy | [Array]
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [C++](algorithms/cpp/pascals_triangle_ii)<sup>x2: +recursion</sup> | Easy | [Array]
